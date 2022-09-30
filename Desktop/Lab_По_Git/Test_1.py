@@ -1,3 +1,3 @@
 Conf = 10 + 5
 print(Conf)
-#NoConflict
+print('NoConflict')
