@@ -1,2 +1,2 @@
-Conf = 5 + 5
+Conf = 10 + 5
 print (Conf)
